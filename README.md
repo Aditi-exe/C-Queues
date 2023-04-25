@@ -220,7 +220,7 @@ void display()
 }
 ```
 
-### Outputs:
+### Output:
 
 ![queues.c output 1](https://github.com/Aditi-exe/C-Queues/blob/main/queues1.PNG)
 
